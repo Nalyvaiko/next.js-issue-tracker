@@ -1,5 +1,3 @@
-# Linear Clone
-
 A project management application built with Next.js, inspired by Linear.
 
 ## Features
