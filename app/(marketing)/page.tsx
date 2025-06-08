@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { Timestamp } from '../components/Timestamp'
 import Button from '../components/ui/Button'
 
-export default async function LandingPage() {
+export default function LandingPage() {
   return (
     <div className="min-h-screen flex flex-col">
       <main className="flex-1">
